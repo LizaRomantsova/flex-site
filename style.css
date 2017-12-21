@@ -1,0 +1,112 @@
+<link href="https://fonts.googleapis.com/css?family=Nunito+Sans" rel="stylesheet">
+body{
+    margin: 0;
+}
+header{
+    background-color: #2D3E52;
+    height: 70px;
+    text-align: right;
+    padding-right: 200px;
+    padding-top: 15px;
+}
+ul li{
+    display: inline;
+}
+li{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: #ffffff;
+    padding: 20px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.article-one{
+    background-color: #19BCA1;
+    height: 750px;
+}
+.logo-div{
+    text-align: center;
+}
+.logo{
+    width: 240px;
+    margin-top: 80px;
+}
+.caption{
+    color: #ffffff;
+    font-size: 70px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.star-div{
+    display: flex;
+    justify-content: center;
+}
+.poloska{
+    background-color: #ffffff;
+    width: 90px;
+    height: 3px;
+    margin: 10px;
+}
+.star-img{
+    position: static;
+    width: 20px;
+    height: 20px;
+    margin: 4px;
+}
+.text-one{
+    text-align: center;
+    color: #ffffff;
+}
+.portfolio-text h2{
+    font-size: 45px;
+    font-family: 'Nunito Sans', sans-serif;
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 0px;
+}
+.poloska-two{
+    background-color: #000000;
+}
+.portfolio-img{
+    width: 364px;
+    height: 291px;
+}
+.portfolio-div{
+    display: flex;
+    justify-content: center;
+}
+.portfolio-div-two{
+    display: flex;
+    justify-content: center;
+}
+.portfolio-img{
+    margin: 20px;
+}
+.about-article{
+    background-color: #19BCA1;
+    height: 500px;
+}
+.about-h2 h2{
+    color: #ffffff;
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 0;
+}
+.div-p{
+    display: flex;
+    width: 1000px;
+    margin-left: 300px;
+}
+.p-text{
+    margin-right: 50px;
+    margin-top: 100px;
+    color: #ffffff;
+}
+
+
+
+
+
+
+
+
